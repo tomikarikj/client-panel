@@ -86,7 +86,7 @@ class Clients extends Component {
   }
 }
 
-Clients.PropTypes = {
+Clients.propTypes = {
   firestore: PropTypes.object.isRequired,
   clients: PropTypes.array
 };
