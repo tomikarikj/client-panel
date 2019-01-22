@@ -8,14 +8,7 @@ import notifyReducer from './reducers/notifyReducer';
 import settingsReducer from './reducers/settingsReducer';
 
 // Firebase config
-const fbConfig = {
-  apiKey: 'AIzaSyBSfMv8Z43fmK4T-QOzzbAZ7fyrsBqxyig',
-  authDomain: 'clientpanel-57df9.firebaseapp.com',
-  databaseURL: 'https://clientpanel-57df9.firebaseio.com',
-  projectId: 'clientpanel-57df9',
-  storageBucket: 'clientpanel-57df9.appspot.com',
-  messagingSenderId: '123323157356'
-};
+const fbConfig = {};
 
 // React Redux Firebase config
 const rrfConfig = {
